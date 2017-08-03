@@ -12,6 +12,8 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
+
+        ///VÌ AI MÀ TÔI ƯU SẦU< VÌ AI MÀ TÔI BIẾT ĐAU, TÌM XEM TÌNH YÊU BẤY LÂU SẼ ĐI VỀ ĐÂU
     },
 
     // use this for initialization
